@@ -9,7 +9,7 @@ namespace week2task4sub1
             string Name;
             string Surname;
             int Age;
-            Gender MaleFemale;
+            Gender geneder;
             long PersonalId;
             long WorkerId;
         }
